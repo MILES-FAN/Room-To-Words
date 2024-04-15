@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./wd14-tagger-standalone"
+    ]
+}
